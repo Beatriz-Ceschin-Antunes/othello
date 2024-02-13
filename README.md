@@ -6,4 +6,5 @@ Othello is a board game played between two players. The player who gets most col
 
 ## What I learned
 
-- Using primitive data type variables, arrays, user defined functions, and functions from the C library. 
+- Using primitive data type variables, arrays, user defined functions, and functions from the C library.
+- Programming in Code::Blocks. 
